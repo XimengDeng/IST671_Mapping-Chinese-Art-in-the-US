@@ -1,3 +1,3 @@
 - The poster pdf is a research proposal with preliminary findings on Chinese antiquities in US museums. It includes a metadata survey from 57 museum databases, initial social network analysis of collectors from historical books, and provenance visualization using a JSON file from the Cleveland Museum of Art.
 
-- This Google Spreadsheet provides detailed information on Chinese antiquities in U.S. museums, including museums names, collection and on-view numbers, geographic coordinates, online collections metadata, etc. https://docs.google.com/spreadsheets/d/1HzemHEQdIYgomtxlhEZtfs3DjjU9Bj-rh9_T5Qoe0rQ/edit?usp=sharing
+- This Google Spreadsheet provides detailed information on Chinese antiquities in 57 US museums, including museums names, collection and on-view numbers, geographic coordinates, online collections metadata, etc. https://docs.google.com/spreadsheets/d/1HzemHEQdIYgomtxlhEZtfs3DjjU9Bj-rh9_T5Qoe0rQ/edit?usp=sharing
