@@ -7,3 +7,5 @@
 3.	**Google Spreadsheet**: Provides detailed information on Chinese arts and antiquities in 56 US museums, including names of the museums, collection and on-view numbers, geographic coordinates, and metadata from online collections. https://docs.google.com/spreadsheets/d/1HzemHEQdIYgomtxlhEZtfs3DjjU9Bj-rh9_T5Qoe0rQ/edit?usp=sharing
 
 4.	**Cypher Notebook**: Contains code that you can implement in an IDE platform like VSCode, or you can copy and paste this code into Neo4j to create a graph database representing the social network of Chinese antiquities dealers, collectors, and institutions. This project is ongoing.
+
+contact: xdengg02@gmail.com
