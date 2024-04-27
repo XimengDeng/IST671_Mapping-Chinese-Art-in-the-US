@@ -1,6 +1,6 @@
 ## Files List
 
-1.	**Research Proposal Poster (PDF)**: This is a research proposal with preliminary findings on Chinese antiquities in US museums. It includes a metadata survey from 56 museum databases, an initial social network analysis of collectors based on historical books, and provenance visualization using a JSON file from the Cleveland Museum of Art.
+1.	**Research Proposal Poster (PDF)**: This is a research proposal with preliminary findings on Chinese antiquities in US museums. It includes a metadata survey from 56 museum databases, an initial social network analysis of collectors based on historical books, and provenance visualization using a JSON file from the Cleveland Museum of Art. The R and Python code for the plots in the poster are attached.
 
 2.	**Google Map List**: Includes the 56 museums involved in the study. Save it to your own Google account. Note: You may need to scroll to the end of the list to ensure all museums load. https://maps.app.goo.gl/e5Gx4PqYxifUp3Ls9
 
