@@ -8,4 +8,6 @@
 
 4.	**Cypher Notebook**: Contains code that you can implement in an IDE platform like VSCode, or you can copy and paste this code into Neo4j to create a graph database representing the social network of Chinese antiquities dealers, collectors, and institutions. This project is ongoing.
 
+5.	**Chinese Paintings Cataloging Policy and Work Records**: This file provides a metadata schema for cataloging ancient Chinese paintings. Note: This was the final assignment for the IST616 Information Resources: Organization and Access course and was developed as a cataloging policy for a hypothetical virtual project.
+
 contact: xdengg02@gmail.com
