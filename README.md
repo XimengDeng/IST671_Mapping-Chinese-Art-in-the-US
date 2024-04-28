@@ -10,4 +10,20 @@
 
 5.	**Chinese Paintings Cataloging Policy and Work Records**: This file provides a metadata schema for cataloging ancient Chinese paintings. Note: This was the final assignment for the IST616 Information Resources: Organization and Access course and was developed as a cataloging policy for a hypothetical virtual project.
 
+
+## Book Source
+
+1. Clair, Michael S. *The Great Chinese Art Transfer: How so Much of China’s Art Came to America*. Fairleigh Dickinson University Press, Madison, 2016.
+
+2. Meyer, Karl E. (Karl Ernest), 1928-2019, and Shareen B. Brysac. *The China Collectors: America’s Century-Long Hunt for Asian Art Treasures*. Palgrave Macmillan, New York, 2015.
+
+3. Tomkins, Calvin. *Merchants and Masterpieces: The Story of the Metropolitan Museum of Art.* [1st ed.] ed. E.P. Dutton 1970. 
+
+4. Rujivacharakul Vimalin. *Collecting China: The World China and a History of Collecting*. University of Delaware Press, Newark Del, 2011.
+
+5. Steuber, Jason, and Guolong Lai, editors. *Collectors Collections & Collecting the Arts of China: Histories & Challenges*. University Press of Florida, 2014.
+
+6. Netting, Lara Jaishree. *A Perpetual Fire: John C. Ferguson and His Quest for Chinese Art and Culture*. Hong Kong University Press, 2013.
+
+
 contact: xdengg02@gmail.com
